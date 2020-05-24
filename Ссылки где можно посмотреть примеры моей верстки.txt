@@ -1,3 +1,4 @@
+Примеры верстки:
 http://r608.ru/trampenergo/
 https://github.com/MichaelGolubtsov/Trampenergo
 
@@ -10,14 +11,20 @@ https://github.com/MichaelGolubtsov/Particles_js
 http://r608.ru/milena/
 https://github.com/MichaelGolubtsov/milena
 
+Примеры использования Яндекс карт:
+http://r608.ru/yandex_map/
+https://github.com/MichaelGolubtsov/Yandex-map
 
 
 
 
 
-
+Примеры верстки:
 http://r608.ru/trampenergo/
 http://r608.ru/begemot/
 http://r608.ru/Particles_js/
 http://r608.ru/milena/
+
+Примеры использования Яндекс карт:
+http://r608.ru/yandex_map/
 
